@@ -28,7 +28,7 @@ twitter_username:
 github_username:  mmo779
 
 # Build settings
-theme: architect
+theme: minima
 plugins:
   - jekyll-feed
 
