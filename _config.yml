@@ -28,10 +28,11 @@ twitter_username:
 github_username:  mmo779
 
 # Build settings
-theme: minima
+#theme: minima
 plugins:
   - jekyll-feed
-post-list-heading: Info
+  
+theme: jekyll-theme-minimal
 
 # Exclude from processing.
 # The following items will not be processed, by default.
