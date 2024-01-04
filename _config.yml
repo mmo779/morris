@@ -21,14 +21,14 @@
 title: Morris Technology Services and Repair
 email: morrismatthew321@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  website for my business
+  
 baseurl: "/morris/" # the subpath of your site, e.g. /blog
 url: "https://mmo779.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  mmo779
 
 # Build settings
-theme: minima
+theme: architect
 plugins:
   - jekyll-feed
 
