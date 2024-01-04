@@ -32,7 +32,7 @@ github_username:  mmo779
 plugins:
   - jekyll-feed
   
-theme: jekyll-theme-minimal
+theme: jekyll-theme-architect
 
 # Exclude from processing.
 # The following items will not be processed, by default.
