@@ -4,3 +4,6 @@
 
 layout: home
 ---
+This is some test text.
+
+My name is Matthew Morris and this is a test for my business website.
