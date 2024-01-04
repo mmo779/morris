@@ -4,5 +4,3 @@
 
 layout: home
 ---
-
-# Heading level 1
