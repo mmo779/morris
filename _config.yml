@@ -31,11 +31,6 @@ github_username:  mmo779
 theme: minima
 plugins:
   - jekyll-feed
-  
-feed:
-  categories:
-    - news
-    - updates
 
 # Exclude from processing.
 # The following items will not be processed, by default.
