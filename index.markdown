@@ -4,5 +4,6 @@
 
 layout: page
 ---
-
 ![PCB](PCB_Image.jpg)
+
+<img src="PCB_Image.jpg" alt="PCB" width="200"/>
