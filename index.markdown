@@ -6,4 +6,4 @@ layout: page
 ---
 
 
-<img src="PCB_Image.jpg" alt="PCB" width=100% height=100%/>
+<img src="PCB_Image.jpg" alt="PCB" text-align:right />
