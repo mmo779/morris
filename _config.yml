@@ -29,7 +29,7 @@ github_username:  mmo779
 
 # Build settings
 #theme: minima
-theme: jekyll-theme-dinky
+theme: minima
 plugins:
   - jekyll-feed
 header_pages:
