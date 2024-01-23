@@ -5,5 +5,10 @@
 layout: page
 ---
 
+<div class="example">  
+<img src="PCB_Image.jpg" alt="PCB"/>  
+<div class="overlay-text">    
+<h1>Welcome to our Blog</h1>    
+<p>We are committed to uploading educative content daily.</p>  
+</div></div>
 
-<img src="PCB_Image.jpg" alt="PCB"/>
