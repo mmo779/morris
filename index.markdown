@@ -11,7 +11,7 @@ layout: page
 <h1>Welcome to our Blog</h1>    
 <p>We are committed to uploading educative content daily.</p> 
 
-  <form accept-charset="UTF-8" action="https://www.formbackend.com/f/da7d597925e11b63" method="POST">
+  <form accept-charset="UTF-8" action="https://www.formbackend.com/f/da7d597925e11b63" method="POST" target="_blank">
   <label for="name">Name</label>
   <input type="text" id="name" name="name" required>
 
