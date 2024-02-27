@@ -11,5 +11,6 @@ layout: page
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center center;
+  height: 50px;
 }
 </style>
