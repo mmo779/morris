@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
+title: This is a test title
 ---
 <style>
 .page-content {
@@ -13,3 +14,5 @@ layout: page
   background-position: center center;
 }
 </style>
+
+
