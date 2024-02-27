@@ -4,9 +4,6 @@
 
 layout: page
 ---
-
-<div class="example">  
-
 <style>
 body {
   background-image: url('PCB_Image.jpg');
@@ -15,4 +12,3 @@ body {
   background-position: center center;
 }
 </style>
-</div>
