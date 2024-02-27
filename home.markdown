@@ -3,7 +3,15 @@ layout: page
 title: Home
 permalink: /home/
 ---
-
+.site-header {
+  white-space: nowrap;
+  background-image: url('PCB_Image.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 100px;
+}
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
