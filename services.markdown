@@ -3,6 +3,7 @@ layout: page
 title: Services
 permalink: /services/
 ---
+<style>
 .site-header {
   white-space: nowrap;
   background-image: url('PCB_Image.jpg');
@@ -12,3 +13,5 @@ permalink: /services/
   background-position: center center;
   height: 100px;
 }
+
+</style>

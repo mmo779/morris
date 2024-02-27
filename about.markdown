@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+<style>
 .site-header {
   white-space: nowrap;
   background-image: url('PCB_Image.jpg');
@@ -12,6 +13,8 @@ permalink: /about/
   background-position: center center;
   height: 100px;
 }
+
+</style>
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 

@@ -3,6 +3,7 @@ layout: page
 title: Contact Us
 permalink: /contact/
 ---
+<style>
 .site-header {
   white-space: nowrap;
   background-image: url('PCB_Image.jpg');
@@ -12,3 +13,5 @@ permalink: /contact/
   background-position: center center;
   height: 100px;
 }
+
+</style>

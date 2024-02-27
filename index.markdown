@@ -15,10 +15,10 @@ layout: page
   height: 100px;
 }
 
-.site-nav{
+body .site-nav{
 	color: white;
 }
-.site-title{
+body .site-title{
 	color: white;
 }
 </style>
