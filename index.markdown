@@ -13,5 +13,4 @@ body {
   background-image: url('PCB_Image.jpg');
 }
 </style>
-
-
+</div>
