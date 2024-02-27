@@ -7,7 +7,8 @@ layout: page
 <style>
 .page-content {
   background-image: url('PCB_Image.jpg');
-  background-size: 75% 75%;
+  background-size: cover;
+  background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center center;
 }
