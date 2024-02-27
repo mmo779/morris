@@ -12,6 +12,8 @@ layout: page
 body {
   background-image: url('PCB_Image.jpg');
   background-size: 50% 50%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 </style>
 </div>
