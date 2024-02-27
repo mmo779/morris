@@ -11,7 +11,7 @@ layout: page
 <style>
 body {
   background-image: url('PCB_Image.jpg');
-  background-size: 100% 100%;
+  background-size: 50% 50%;
 }
 </style>
 </div>
