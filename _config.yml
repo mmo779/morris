@@ -33,6 +33,7 @@ theme: minima
 plugins:
   - jekyll-feed
 header_pages:
+  - home.markdown
   - about.markdown
   - services.markdown
   - contact.markdown

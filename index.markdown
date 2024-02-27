@@ -3,10 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: This is a test title
 ---
 <style>
-.page-content {
+.site-header {
   background-image: url('PCB_Image.jpg');
   background-size: cover;
   background-attachment: fixed;
@@ -14,49 +13,3 @@ title: This is a test title
   background-position: center center;
 }
 </style>
-
-
-this is a test
-
-this is a test
-
-this is a test
-
-this is a test
-
-this is a test
-
-this is a test
-
-this is a test
-
-this is a test
-
-this is a test
-
-this is a test
-this is a test
-this is a test
-
-this is a test
-this is a test
-
-
-
-this is a test
-
-
-this is a test
-
-
-this is a test
-
-
-this is a test
-
-this is a test
-
-
-this is a test
-
-this is a test
