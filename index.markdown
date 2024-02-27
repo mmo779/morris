@@ -15,10 +15,5 @@ layout: page
   height: 100px;
 }
 
-.wrapper {
-	color: white;
-}
-.trigger {
-	color: white;
-}
+
 </style>
