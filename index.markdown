@@ -6,20 +6,12 @@ layout: page
 ---
 
 <div class="example">  
-<img src="PCB_Image.jpg" alt="PCB"/>  
-<div class="overlay-text">    
-<h1>Welcome to our Blog</h1>    
-<p>We are committed to uploading educative content daily.</p> 
+<img src="" alt="PCB"/>  
 
-  <form accept-charset="UTF-8" action="https://www.formbackend.com/f/da7d597925e11b63" method="POST" target="_blank">
-  <label for="name">Name</label>
-  <input type="text" id="name" name="name" required>
+<style>
+body {
+  background-image: url('PCB_Image.jpg');
+}
+</style>
 
-  <label for="email">Email</label>
-  <input type="email" id="email" name="email" required>
-
-  <button type="submit">Submit</button>
-</form>
-
-</div></div>
 
