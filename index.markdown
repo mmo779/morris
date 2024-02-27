@@ -6,7 +6,6 @@ layout: page
 ---
 
 <div class="example">  
-<img src="" alt="PCB"/>  
 
 <style>
 body {
