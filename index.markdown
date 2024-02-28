@@ -5,7 +5,7 @@
 layout: page
 ---
 <style>
-.site-header {
+ #masthead {
   color: white;
   white-space: nowrap;
   background-image: url('PCB_Image.jpg');
