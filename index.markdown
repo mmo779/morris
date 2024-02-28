@@ -16,7 +16,4 @@ layout: page
   height: 100px;
 }
 
-body{
-	color: white;
-}
 </style>
