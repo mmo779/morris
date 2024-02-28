@@ -16,10 +16,7 @@ layout: page
   height: 100px;
 }
 
-.site-nav{
-	color:white;
-}
-.site-title{
-	color:white;
+body{
+	color: white;
 }
 </style>
