@@ -6,6 +6,7 @@ layout: page
 ---
 <style>
 .site-header {
+  color: white;
   white-space: nowrap;
   background-image: url('PCB_Image.jpg');
   background-size: cover;
