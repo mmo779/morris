@@ -5,9 +5,14 @@
 layout: page
 ---
 <style>
+$${\color{red}Red}$$
  #masthead {
   white-space: nowrap;
   border-bottom: 5px;
+}
+
+#masthead : hover{
+	color: red;
 }
 
 </style>
