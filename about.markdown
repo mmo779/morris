@@ -21,4 +21,3 @@ html #masthead:hover {
   color: red !important; /* Using !important to enforce this style */
 }
 </style>
-
