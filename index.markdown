@@ -16,6 +16,13 @@ html span:hover {
 	transform: scale(1.05); /* Makes the element 10% larger */
 }
 
+.navicon-button{
+	background-color: black;
+}
+.navicon {
+	background: white;
+}
+
 
 html #masthead {
   white-space: nowrap;

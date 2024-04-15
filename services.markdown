@@ -16,7 +16,9 @@ html span:hover {
 
 .navicon-button{
 	background-color: black;
-	color: white;
+}
+.navicon {
+	background: white;
 }
 
 html #masthead {
