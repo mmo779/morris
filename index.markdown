@@ -4,14 +4,14 @@
 title: 
 layout: page
 ---
+
 <style>
- #masthead {
+html #masthead {
   white-space: nowrap;
-  border-bottom: 5px;
+  border-bottom: 5px solid black;
 }
 
-#masthead : hover{
-	color: red;
+html #masthead:hover {
+  color: red !important; /* Using !important to enforce this style */
 }
-
 </style>
