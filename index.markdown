@@ -6,7 +6,7 @@ layout: page
 ---
 
 <style>
-html #mastead{
+html #masthead{
 	margin-bottom: 5px;
 }
 
