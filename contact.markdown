@@ -30,6 +30,7 @@ html #masthead span:hover {
 html #masthead {
   white-space: nowrap;
   border-bottom: 2px solid black;
+  border-radius: 25px;
   background-color: black;
 }
 
