@@ -16,7 +16,7 @@ html span:hover{
 
 html #masthead {
   white-space: nowrap;
-  border-bottom: 5px solid black;
+  border-bottom: 2px solid black;
 }
 
 html #masthead:hover {
