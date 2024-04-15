@@ -21,7 +21,7 @@ html span:hover {
 	background: white;
 }
 .navicon::before{
-	background white;
+	background: white;
 }
 .navicon::after{
 	background: white;
