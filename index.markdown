@@ -6,7 +6,7 @@ layout: page
 ---
 <style>
  #masthead {
-  color: white;
+  color: black;
   white-space: nowrap;
   background-image: url('PCB_Image.jpg');
   background-size: cover;
