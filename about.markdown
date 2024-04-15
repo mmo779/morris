@@ -20,6 +20,12 @@ html span:hover {
 .navicon {
 	background: white;
 }
+.navicon::before{
+	background white;
+}
+.navicon::after{
+	background: white;
+}
 
 html #masthead {
   white-space: nowrap;
