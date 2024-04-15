@@ -6,6 +6,8 @@ layout: page
 ---
 
 <style>
-
+html #mastead{
+	margin-bottom: 5px;
+}
 
 </style>
