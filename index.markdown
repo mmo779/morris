@@ -6,6 +6,14 @@ layout: page
 ---
 
 <style>
+html span{
+	color: black;
+}
+
+html span:hover{
+	color: #77DD77;
+}
+
 html #masthead {
   white-space: nowrap;
   border-bottom: 5px solid black;
