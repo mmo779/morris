@@ -4,15 +4,12 @@ title: Services
 permalink: /services/
 ---
 <style>
- #masthead {
-  color: white;
-  white-space: nowrap;
-  background-image: url('PCB_Image.jpg');
-  background-size: cover;
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  background-position: center center;
-  height: 100px;
+html span {
+  transition: transform 0.5s ease; /* Smooth transform transitions */
+}
+
+html span:hover {
+  transform: scale(1.05); /* Makes the element 10% larger */
 }
 
 </style>
