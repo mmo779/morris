@@ -14,7 +14,7 @@ html span:hover {
 	transform: scale(1.05); /* Makes the element 10% larger */
 }
 
-.sidebar-toggle-wrapper{
+.navicon-button{
 	background-color: black;
 	color: white;
 }
