@@ -14,6 +14,11 @@ html span:hover {
 	transform: scale(1.05); /* Makes the element 10% larger */
 }
 
+.sidebar-toggle-wrapper{
+	background-color: black;
+	color: white;
+}
+
 html #masthead {
   white-space: nowrap;
   border-bottom: 2px solid black;
