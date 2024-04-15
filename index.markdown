@@ -7,11 +7,11 @@ layout: page
 
 <style>
 html span {
-  transition: transform 0.3s ease; /* Smooth transform transitions */
+  transition: transform 0.5s ease; /* Smooth transform transitions */
 }
 
 html span:hover {
-  transform: scale(1.1); /* Makes the element 10% larger */
+  transform: scale(1.05); /* Makes the element 10% larger */
 }
 
 
