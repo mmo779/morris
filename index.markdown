@@ -6,13 +6,16 @@ layout: page
 ---
 
 <style>
-html span{
-	color: black;
+html span {
+  transition: text-decoration-color 0.3s ease; /* Color transition for underline */
+  text-decoration: none;
 }
 
-html span:hover{
-	color: #77DD77;
+html span:hover {
+  text-decoration: underline;
+  text-decoration-color: hoverColor; /* Color of underline on hover */
 }
+
 
 html #masthead {
   white-space: nowrap;
