@@ -4,12 +4,12 @@ title: Contact Us
 permalink: /contact/
 ---
 <style>
-html span {
+html #masthead span {
 	color: white;
 	transition: transform 0.5s ease; /* Smooth transform transitions */
 }
 
-html span:hover {
+html #masthead span:hover {
 	color: white;
 	transform: scale(1.05); /* Makes the element 10% larger */
 }
