@@ -7,13 +7,11 @@ layout: page
 
 <style>
 html span {
-  transition: text-decoration-color 0.3s ease; /* Color transition for underline */
-  text-decoration: none;
+  transition: transform 0.3s ease; /* Smooth transform transitions */
 }
 
 html span:hover {
-  text-decoration: underline;
-  text-decoration-color: hoverColor; /* Color of underline on hover */
+  transform: scale(1.1); /* Makes the element 10% larger */
 }
 
 
