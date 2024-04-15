@@ -17,8 +17,7 @@ html #masthead{
 }
 
 html .initial-content{
-	margin-top: 10px;
-	height: 200px;
+	height: 50;
 }
 
 </style>
