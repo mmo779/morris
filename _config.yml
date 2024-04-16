@@ -29,7 +29,7 @@ github_username:  mmo779
 
 # Build settings
 #theme: minima
-remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
+remote_theme: "daattali/beautiful-jekyll@6.0.1"
 plugins:
   - jekyll-feed
 header_pages:
