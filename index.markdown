@@ -7,7 +7,7 @@ layout: page
 This is some test text so that I can see whats poppin. 
 
 <style>
-.page-heading{
+.intro-header .page-heading h1{
 	font-size: 20px;
 }
 </style>
