@@ -8,6 +8,6 @@ This is some test text so that I can see whats poppin.
 
 <style>
 .intro-header .page-heading h1{
-	font-size: 20px;
+	font-size: 1.5rem;
 }
 </style>
