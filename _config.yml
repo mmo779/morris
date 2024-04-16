@@ -25,10 +25,10 @@ title: Morris Technology Services and Repair
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "about"
   Resources:
-    - Get a quote: "https://mmo779.github.io/morris/services"
-    - Contact: "https://mmo779.github.io/morris/contact"
+    - Get a quote: "services"
+    - Contact: "contact"
   
 baseurl: "/morris/" # the subpath of your site, e.g. /blog
 url: "https://mmo779.github.io" # the base hostname & protocol for your site, e.g. http://example.com
