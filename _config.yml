@@ -29,21 +29,30 @@ navbar-links:
   Resources:
     - Get a quote: "services"
     - Contact: "contact"
+    
+################
+# --- Logo --- #
+################
+
+# Image to show in the navigation bar - works best with a square image
+# Remove this parameter if you don't want an image in the navbar
+avatar: "/assets/img/avatar-icon.png"
+
+# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
+round-avatar: true
+
+# If you want to have an image logo in the top-left corner instead of having the title of the website,
+# then specify the following parameter
+#title-img: /path/to/image
   
 baseurl: "/morris/" # the subpath of your site, e.g. /blog
 url: "https://mmo779.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
-github_username:  mmo779
 
 # Build settings
 #theme: minima
 remote_theme: "daattali/beautiful-jekyll@6.0.1"
 plugins:
   - jekyll-feed
-header_pages:
-  - about.markdown
-  - services.markdown
-  - contact.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
