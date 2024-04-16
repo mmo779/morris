@@ -19,8 +19,16 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Morris Technology Services and Repair
-email: morrismatthew321@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+
+###############################################
+# --- List of links in the navigation bar --- #
+###############################################
+
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Get a quote: "https://mmo779.github.io/morris/services"
+    - Contact: "https://mmo779.github.io/morris/contact"
   
 baseurl: "/morris/" # the subpath of your site, e.g. /blog
 url: "https://mmo779.github.io" # the base hostname & protocol for your site, e.g. http://example.com
