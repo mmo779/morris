@@ -4,21 +4,10 @@
 title: Home
 layout: page
 ---
-<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap">
+This is some test text so that I can see whats poppin. 
 
 <style>
-body {
-  font-family: 'Roboto', sans-serif;
+.page-heading{
+	font-size: 20px;
 }
-
-
-html #masthead{
-	
-}
-
-html .intro{
-	padding-top: 0px;
-	margin-top: 0px;
-}
-
 </style>
