@@ -9,7 +9,7 @@ My name is Matthew Morris and I am 23 years old.
 <style>
 @font-face {
  font-family: 'Noto Sans JP';
- src: url(_fonts/noto_sans_jp/NotoSansJP-VariableFont_wght.ttf) format('truefont');
+ src: url(_fonts/noto_sans_jp/NotoSansJP-VariableFont_wght.ttf) format('truetype');
 }
 
 p{
