@@ -27,7 +27,8 @@ title: Morris Technology Services and Repair
 navbar-links:
   About Me: "about"
   Resources:
-    - Get a quote: "services"
+    - Services: "services"
+    - Get a quote: "quote"
     - Contact: "contact"
     
 ################
