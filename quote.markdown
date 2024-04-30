@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Get A Quote
+permalink: /getaquote/
 ---
 <style>
 html #masthead span {

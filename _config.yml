@@ -28,7 +28,7 @@ navbar-links:
   About Me: "about"
   Resources:
     - Services: "services"
-    - Get a quote: "quote"
+    - Get a quote: "getaquote"
     - Contact: "contact"
     
 ################
