@@ -3,6 +3,16 @@ layout: minimal
 title: Get A Quote
 permalink: /quote/
 ---
+This is a test to see what the minimal is.
+
+test test test test test.
+
+test test.
+test.
+
+
+test test test test.
+
 
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 
