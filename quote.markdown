@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: minimal
 title: Get A Quote
 permalink: /quote/
 ---
