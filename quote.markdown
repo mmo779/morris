@@ -9,6 +9,7 @@ permalink: /quote/
 <style>
 .intro-header .page-heading h1 {
 	font-size: 2.25rem;
+	padding: 20px 0;
 }
 
 p {
@@ -22,6 +23,7 @@ p {
 	padding: 1rem;
 	border: 1px solid #ccc;
 	border-radius: 8px;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 label {
@@ -32,12 +34,18 @@ label {
 
 select, textarea, button {
 	width: 100%;
-	padding: 0.5rem;
+	padding: 0.75rem;
 	margin-bottom: 1rem;
 	font-family: 'Roboto', sans-serif;
 	font-size: 1rem;
 	border: 1px solid #ccc;
 	border-radius: 4px;
+	box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+textarea::placeholder {
+	font-style: italic;
+	color: #888;
 }
 
 button {
@@ -45,6 +53,7 @@ button {
 	color: white;
 	border: none;
 	cursor: pointer;
+	transition: background-color 0.3s ease;
 }
 
 button:hover {
@@ -53,17 +62,19 @@ button:hover {
 </style>
 
 <div class="form-container">
-	<form action="your_form_processing_script" method="post">
+	<form name="gform" id="gform" action="https://docs.google.com/forms/d/e/1FAIpQLSc9oBfXLmWgiO8M0wQEC9CJITsRdPPbPSdhivENaS4ua2Fv1A/formResponse?" target="hidden_iframe" method="post">
 		<label for="service">Select Service:</label>
 		<select id="service" name="service" required>
 			<option value="">--Please choose an option--</option>
-			<option value="custom_pc_build">Custom PC Build</option>
-			<option value="tech_repair">Tech Repair</option>
+			<option name="entry.219806142" id="entry.219806142" value="custom_pc_build">Custom PC Build</option>
+			<option name="entry.219806142" id="entry.219806142" value="tech_repair">Tech Repair</option>
 		</select>
 
 		<label for="details">Details:</label>
-		<textarea id="details" name="details" rows="6" required placeholder="Please describe in detail what you need..."></textarea>
+		<textarea id="entry.101151677" name="entry.101151677" rows="6" required placeholder="Tell us exactly what you're looking for..."></textarea>
 
 		<button type="submit">Get a Quote</button>
+		<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"></iframe>
 	</form>
 </div>
+
